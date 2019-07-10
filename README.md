@@ -1,14 +1,11 @@
 # News App
-
-React Native aplikacije pisana za vreme React Native kursa u indjiji - 01.06.2019
-
 ### Upustvo
 
 
 prvo preuzmite aplikaciju putem git-a
 
 ```
-git clone git@github.com:gorangajic/NewsApp.git
+git clone git@github.com:Nemadjo94/NewsApp.git
 cd NewsApp
 ```
 
@@ -25,7 +22,7 @@ npm start
 ```
 
 Napravite nalog i preuzmite API KEY na sajt-u [NewsApi.org](https://newsapi.org/)
-onda taj kljuc unesite na Home.js stranici na 19-oj liniji
+onda taj kljuc unesite na Home.js 
 
 ```javascript
 const YOUR_API_KEY = ''; // unesi svoj api kljuc
